@@ -82,7 +82,7 @@ pytest -n 4
 
 ### Run specific test file
 ```bash
-pytest tests/test_example.py
+pytest tests/test_login.py
 ```
 
 ### Run with HTML report
